@@ -12,13 +12,6 @@
     background-color: #eedcb3;
 }
 
-.nav {
-    grid-column: 1;
-    grid-row: 2;
-    background-color: #00ffff;
-    margin-right: 2px;
-}
-
 .aside1 {
     grid-column: 2;
     grid-row: 2;
