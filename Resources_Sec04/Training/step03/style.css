@@ -4,6 +4,7 @@
     grid-template-columns: 2fr 3fr 1fr;
     grid-template-rows: 140px 500px 120px;
     margin: 0 auto;
+    gap: 30px 20px;
 }
 
 .header {
