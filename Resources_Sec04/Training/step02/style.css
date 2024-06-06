@@ -32,3 +32,9 @@
     background-color: #00ffff;
     margin-right: 2px;
 }
+
+.aside2 {
+    grid-column: 4; /* 3と4が続く場合は4を省略できる */
+    grid-row: 2; /* 2と3が続く場合は3を省略できる */
+    background-color: #00ffff;
+}
