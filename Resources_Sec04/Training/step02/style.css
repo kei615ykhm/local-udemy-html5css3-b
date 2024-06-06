@@ -38,3 +38,10 @@
     grid-row: 2; /* 2と3が続く場合は3を省略できる */
     background-color: #00ffff;
 }
+
+.footer {
+    grid-column: 1 / 5;
+    grid-row: 3; /* 3と4が続く場合は4を省略できる */
+    background-color: #eedcb3;
+    margin-top: 2px;
+}
