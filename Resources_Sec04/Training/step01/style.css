@@ -1,4 +1,7 @@
+/* コンテナでの設定は要素をどう分割するかを指定するもの */
 .container {
     display: grid;
+    width: 800px;
     grid-template-columns: 180px 1fr;
+    grid-template-rows: 120px 90px;
 }
