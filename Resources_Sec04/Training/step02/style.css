@@ -4,3 +4,10 @@
     grid-template-columns: 140px 120px 410px 1fr;
     grid-template-rows: 140px 500px 120px;
 }
+
+.header {
+    grid-column: 1 / 5;
+    grid-row: 1; /* grid-rowは1と2が続く場合は2を省略できる */
+    background-color: #eedcb3;
+    margin-bottom: 2px;
+}
