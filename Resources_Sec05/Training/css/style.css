@@ -7,13 +7,13 @@
     gap: 30px; /* それぞれの要素の間に30pxの余白を設定 */
 }
 
-.header {
+/* .header {
     background-color: aqua;
 }
 
 .TopPhoto {
     background-color: aqua;
-}
+} */
 
 .main {
     display: grid;
