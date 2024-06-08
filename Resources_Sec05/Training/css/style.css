@@ -4,6 +4,7 @@
     grid-template-columns: 834px;
     grid-template-rows: 50px 356px auto 65px 120px;
     margin: 0 auto;
+    gap: 30px; /* それぞれの要素の間に30pxの余白を設定 */
 }
 
 .header {
