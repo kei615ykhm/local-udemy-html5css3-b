@@ -48,3 +48,9 @@ h2 {
     background-color: aqua;
     margin: 0 auto;
 }
+
+.footer {
+    grid-column: 1;
+    grid-row: 5;
+    background-color: aqua;
+}
