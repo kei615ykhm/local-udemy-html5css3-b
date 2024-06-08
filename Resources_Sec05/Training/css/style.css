@@ -45,6 +45,16 @@ h2 {
     grid-row: 2;
 }
 
+.photo .mejiros {
+    display: flex;
+    justify-content: space-between;
+}
+
+.photo .mejiros img {
+    width: 117px;
+    height: 117px;
+}
+
 .main-text {
     grid-column: 4;
     grid-row: 2;
