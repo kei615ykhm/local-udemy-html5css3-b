@@ -8,14 +8,14 @@
 }
 
 .header {
-    grid-column: 1;
-    grid-row: 1; /* 自動配置で省略可能だが、一時的に記述 */
+    /* grid-column: 1; */
+    /* grid-row: 1; 自動配置で省略可能だが、一時的に記述 */
     background-color: aqua;
 }
 
 .TopPhoto {
-    grid-column: 1;
-    grid-row: 2;
+    /* grid-column: 1; */
+    /* grid-row: 2; */
     background-color: aqua;
 }
 
@@ -23,8 +23,8 @@
     display: grid;
     grid-template-columns: 40px 1fr 40px 1fr 40px;
     grid-template-rows: 24px 412px;
-    grid-column: 1;
-    grid-row: 3;
+    /* grid-column: 1; */
+    /* grid-row: 3; */
     background-color: aqua;
 }
 
@@ -44,14 +44,14 @@ h2 {
 }
 
 .SNS {
-    grid-column: 1;
-    grid-row: 4;
+    /* grid-column: 1; */
+    /* grid-row: 4; */
     background-color: aqua;
     margin: 0 auto;
 }
 
 .footer {
-    grid-column: 1;
-    grid-row: 5;
+    /* grid-column: 1; */
+    /* grid-row: 5; */
     background-color: aqua;
 }
