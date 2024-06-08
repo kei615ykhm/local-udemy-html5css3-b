@@ -20,6 +20,7 @@
     display: flex; /* メニューを横並びにする */
     list-style-type: none; /* リストのマーカーを削除 */
     width: 180px;
+    justify-content: space-between; /* メニュー内の要素を左右に分散配置 */
 }
 
 .main {
