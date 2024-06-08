@@ -1,6 +1,13 @@
 .container {
     display: grid;
+    width: 834px;
     grid-template-columns: 834px;
     grid-template-rows: 50px 356px auto 65px 120px;
     margin: 0 auto;
+}
+
+.header {
+    grid-column: 1;
+    grid-row: 1; /* 自動配置で省略可能だが、一時的に記述 */
+    background-color: aqua;
 }
