@@ -19,6 +19,7 @@
 .header ul {
     display: flex; /* メニューを横並びにする */
     list-style-type: none; /* リストのマーカーを削除 */
+    width: 180px;
 }
 
 .main {
