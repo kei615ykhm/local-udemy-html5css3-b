@@ -19,6 +19,9 @@
 }
 
 .main {
+    display: grid;
+    grid-template-columns: 40px 1fr 40px 1fr 40px;
+    grid-template-rows: 24px 412px;
     grid-column: 1;
     grid-row: 3;
     background-color: aqua;
