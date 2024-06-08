@@ -37,3 +37,9 @@ h2 {
     grid-row: 2;
 }
 
+.main-text {
+    grid-column: 4;
+    grid-row: 2;
+}
+
+
