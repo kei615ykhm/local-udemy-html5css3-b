@@ -60,6 +60,12 @@ h2 {
     grid-row: 2;
 }
 
+.main-text .p1 {
+    border: 1px solid #000; /* 枠線を設定 */
+    border-radius: 10px; /* 枠線の角を丸くする */
+    padding: 10px;
+}
+
 .SNS {
     margin: 0 auto;
 }
