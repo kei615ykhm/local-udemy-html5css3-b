@@ -11,7 +11,7 @@
     display: grid;
     grid-template-columns: 40px 1fr 40px 1fr 40px;
     grid-template-rows: 24px 412px;
-    background-color: aqua;
+    /* background-color: aqua; */
 }
 
 h2 {
@@ -31,10 +31,10 @@ h2 {
 }
 
 .SNS {
-    background-color: aqua;
+    /* background-color: aqua; */
     margin: 0 auto;
 }
 
-.footer {
+/* .footer {
     background-color: aqua;
-}
+} */
