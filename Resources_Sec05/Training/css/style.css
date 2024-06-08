@@ -7,6 +7,10 @@
     gap: 30px; /* それぞれの要素の間に30pxの余白を設定 */
 }
 
+.header {
+    display: flex; /* ヘッダー内の要素を横並びにする */
+}
+
 .header ul {
     display: flex; /* メニューを横並びにする */
     list-style-type: none; /* リストのマーカーを削除 */
