@@ -42,4 +42,9 @@ h2 {
     grid-row: 2;
 }
 
-
+.SNS {
+    grid-column: 1;
+    grid-row: 4;
+    background-color: aqua;
+    margin: 0 auto;
+}
