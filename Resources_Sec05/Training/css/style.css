@@ -9,6 +9,7 @@
 
 .header {
     display: flex; /* ヘッダー内の要素を横並びにする */
+    justify-content: space-between; /* ヘッダー内の要素を左右に分散配置 */
 }
 
 .header ul {
