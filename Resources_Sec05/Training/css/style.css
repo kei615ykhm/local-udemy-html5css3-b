@@ -86,3 +86,23 @@ h2 {
     justify-content: space-between;
     margin: 0 auto;
 }
+
+.footer {
+    background-color: #aaa;
+}
+
+.footer .footer_title {
+    color: #fff;
+    margin: 10px 0 20px 40px; /* 上右下左 */
+}
+
+.footer .footer_textbox {
+    margin-left: 40px;
+    display: flex;
+    width: 550px;
+    justify-content: space-between;
+}
+
+.footer .footer_text {
+    width: 230px;
+}
