@@ -20,6 +20,9 @@ h1, h2, p {
 
 .header h1 {
     margin-left: 20px;
+    font-size: 30px;
+    font-weight: w8;
+    color: #81A238;
 }
 
 .header ul {
