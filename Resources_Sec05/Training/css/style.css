@@ -58,6 +58,7 @@ p {
     display: grid;
     grid-template-columns: 40px 1fr 40px 1fr 40px;
     grid-template-rows: 24px 412px;
+    gap: 20px 0;
 }
 
 h2 {
