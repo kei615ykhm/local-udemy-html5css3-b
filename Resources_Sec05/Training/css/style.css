@@ -4,6 +4,13 @@ h1, h2, p {
     font-family: 'Noto Sans JP', sans-serif;
 }
 
+p {
+    font-size: 16px;
+    font-weight: w4;
+    line-height: 22px;
+    color: #666;
+}
+
 .container {
     display: grid;
     width: 834px;
