@@ -79,3 +79,10 @@ h2 {
 .SNS {
     margin: 0 auto;
 }
+
+.SNS .SNS_Logo {
+    width: 282px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
