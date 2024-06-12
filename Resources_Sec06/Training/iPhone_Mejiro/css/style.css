@@ -3,9 +3,9 @@ h1, h2, p {
 }
 
 p {
-    font-size: 12px; /* 16px */
+    font-size: 12px;
     font-weight: w4;
-    line-height: 16px; /* 23px */
+    line-height: 16px;
     color: #483E3E;
 }
 
