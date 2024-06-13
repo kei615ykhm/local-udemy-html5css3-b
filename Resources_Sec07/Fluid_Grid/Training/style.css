@@ -19,7 +19,7 @@ header h1 {
 }
 
 main {
-    width: 850px;
+    width: 85%; /* 固定値800pxから相対値85%に変更 */
     margin: 0 auto;
     line-height: 1.3em;
 }
