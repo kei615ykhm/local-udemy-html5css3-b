@@ -48,7 +48,7 @@ article section {
 }
 
 footer {
-    width: 1000px;
+    width: 100%; /* 固定値1000pxから相対値100%に変更 */
     color: #fff;
     background-color: #000;
     text-align: center;
