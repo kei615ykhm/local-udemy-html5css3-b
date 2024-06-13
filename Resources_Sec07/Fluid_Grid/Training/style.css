@@ -8,12 +8,3 @@ body {
     display: grid;
     gap: 30px;
 }
-
-header h1 {
-    font-size: 1.5em;
-    height: 38px;
-    text-align: center;
-    color: #fff;
-    background-color: #3fc;
-    padding-top: 7px;
-}
