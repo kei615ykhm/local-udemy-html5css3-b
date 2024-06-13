@@ -29,5 +29,7 @@
 
 /*iPad用の設定*/
 @media screen and (min-width: 600px) {
-
+    .container {
+        grid-template-columns: 2fr 1fr;
+        grid-template-rows: 80px 150px 30opx 80px;
 }
