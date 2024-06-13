@@ -29,3 +29,11 @@ figure img {
     max-width: 100%; /* このプロパティを使うことで画像サイズを可変にできる */
     height: auto;
 }
+
+.comment {
+    line-height: 1.3em;
+}
+
+.comment h3 {
+    margin-bottom: 10px;
+}
