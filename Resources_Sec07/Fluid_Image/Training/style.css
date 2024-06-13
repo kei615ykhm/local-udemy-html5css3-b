@@ -12,3 +12,11 @@
     display: grid;
     gap: 30px;
 }
+
+header {
+    height: 25px;
+    text-align: center;
+    color: #fff;
+    background-color: #3fc;
+    padding-top: 10px;
+}
