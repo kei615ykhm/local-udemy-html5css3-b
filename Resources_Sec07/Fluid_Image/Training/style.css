@@ -4,3 +4,11 @@
     width: 100%;
     background-color: #fff;
 }
+
+.container {
+    max-height: 550px;
+    width: 55%;
+    margin: 0 auto;
+    display: grid;
+    gap: 30px;
+}
