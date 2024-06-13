@@ -53,5 +53,8 @@
 
 /*PC用の設定*/
 @media screen and (min-width: 834px) {
-    
+    .container {
+        grid-template-columns: 2fr 3fr 1fr;
+        grid-template-rows: 80px 300px 80px;
+    }
 }
