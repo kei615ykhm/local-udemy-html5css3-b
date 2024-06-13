@@ -36,3 +36,13 @@ aside h2 {
     padding-top: 15px;
     margin-bottom: 20px;
 }
+
+article {
+    line-height: 1.3em;
+}
+
+article section {
+    border-bottom: 1px solid #666;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
