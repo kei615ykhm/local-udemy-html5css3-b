@@ -52,7 +52,7 @@
 }
 
 /*PC用の設定*/
-@media screen and (min-width: 834px) {
+@media screen and (min-width: 835px) {
     .container {
         grid-template-columns: 2fr 3fr 1fr;
         grid-template-rows: 80px 300px 80px;
@@ -61,14 +61,13 @@
         grid-column: 1 / 4;
     }
     .article {
-        grid-column: 1 / 2;
+        grid-column: 1;
     }
     .main {
-        grid-column: 2 / 4;
+        grid-column: 2;
     }
     .aside {
-        grid-column: 4 / 5;
-        grid-row: 2;
+        grid-column: 3;
     }
     .footer {
         grid-column: 1 / 4;
