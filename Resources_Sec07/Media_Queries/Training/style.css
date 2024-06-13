@@ -26,3 +26,8 @@
 .footer {
     background-color: #eedcb3;
 }
+
+/*iPad用の設定*/
+@media screen and (min-width: 600px) {
+
+}
