@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body {
-    width: 1000px;
+    width: 100%; /* 固定値1000pxから相対値100%に変更 */
 }
 
 .container {
