@@ -47,6 +47,10 @@ p {
     text-decoration: none;
 }
 
+.TopPhoto {
+    margin-bottom: 30px;
+}
+
 .TopPhoto img {
     width: 100%;
 }
