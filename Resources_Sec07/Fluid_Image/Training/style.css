@@ -22,6 +22,9 @@ header {
 }
 
 figure {
+    background-image: url(images/mejiro.jpg);
+    width: 550px;
+    height: 367px;
     margin-bottom: 30px;
 }
 
