@@ -12,9 +12,8 @@ p {
 
 .container {
     display: grid;
-    width: 375px;
-    grid-template-columns: 375px;
-    grid-template-rows: 20px 160px auto auto auto;
+    width: 100%;
+    grid-template-columns: 100%;
     margin: 0 auto;
     gap: 30px 0;
 }
@@ -25,7 +24,7 @@ p {
 }
 
 .header h1 {
-    margin-left: 10px;
+    margin-left: 2.66%; /*10÷375×100*/
     font-size: 20px;
     font-weight: w8;
     color: #81A238;
@@ -35,7 +34,7 @@ p {
 .header ul {
     display: flex;
     list-style-type: none;
-    width: 140px;
+    width: 37.33%; /*140÷375×100*/
     justify-content: space-between;
     margin-right: 5px;
 }
@@ -50,7 +49,7 @@ p {
 }
 
 .TopPhoto img {
-    width: 375px;
+    width: 100%;
 }
 
 .header ul a:hover {
@@ -62,11 +61,11 @@ p {
 }
 
 h2 {
-    width: 300px;
+    width: 80%; /*300÷375×100*/
     font-size: 22px;
     font-weight: w8;
     color: #6C4747;
-    margin: 0 0 15px 20px;
+    margin: 0 0 15px 5.33%; /*20÷375×100*/
 }
 
 .photo {
@@ -74,7 +73,7 @@ h2 {
 }
 
 .photo img {
-    width: 375px;
+    width: 100%;
     margin-bottom: 4px;
 }
 
@@ -84,8 +83,8 @@ h2 {
 }
 
 .photo .mejiros img {
-    width: 117px;
-    height: 117px;
+    width: 31.2%; /*117÷375×100*/
+    height: 0 auto; /*正方形なのでauto*/
 }
 
 .main-text {
@@ -101,7 +100,7 @@ h2 {
 }
 
 .main-text .button_back {
-    width: 50px;
+    width: 13.33%; /*50÷375×100*/
     border: 1px solid #000;
     border-radius: 10px;
     text-align: center;
@@ -110,7 +109,7 @@ h2 {
 }
 
 .SNS .SNS_Logo {
-    width: 251px;
+    width: 66.93%; /*251÷375×100*/
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
@@ -119,7 +118,7 @@ h2 {
 }
 
 .SNS_Logo img {
-    width: 44px;
+    width: 11.73%; /*44÷375×100*/
 }
 
 .footer {
@@ -130,17 +129,17 @@ h2 {
     height: 25px;
     color: #fff;
     background-color: #B4AEAE;
-    padding-left: 30px;
+    padding-left: 8.0%; /*30÷375×100*/
     padding-top: 5px;
     margin-bottom: 20px;
 }
 
 .footer .footer_textbox {
-    margin-left: 30px;
+    margin-left: 8.0%; /*30÷375×100*/
 }
 
 .footer .footer_textbox p {
-    line-height: 22px; 
+    line-height: 1.7em; /*元のサイズの1.7倍*/
 }
 
 
