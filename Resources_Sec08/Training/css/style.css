@@ -19,6 +19,7 @@ p {
 .header {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 15px;
 }
 
 .header h1 {
