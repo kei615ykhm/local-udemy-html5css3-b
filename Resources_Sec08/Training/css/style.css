@@ -19,7 +19,7 @@ p {
 .header {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 4%; /*15÷375×100*/
+    margin-bottom: 3%; /*15÷375×100の値を基準に微調整*/
 }
 
 .header h1 {
@@ -48,7 +48,7 @@ p {
 }
 
 .TopPhoto {
-    margin-bottom: 8%; /*30÷375×100*/
+    margin-bottom: 6%; /*30÷375×100の値を基準に微調整*/
 }
 
 .TopPhoto img {
