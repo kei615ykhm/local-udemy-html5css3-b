@@ -19,7 +19,7 @@ p {
 .header {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 15px;
+    margin-bottom: 4%; /*15÷375×100*/
 }
 
 .header h1 {
@@ -48,7 +48,7 @@ p {
 }
 
 .TopPhoto {
-    margin-bottom: 30px;
+    margin-bottom: 8%; /*30÷375×100*/
 }
 
 .TopPhoto img {
