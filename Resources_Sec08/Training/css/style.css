@@ -93,6 +93,7 @@ h2 {
 .main-text {
     width: 315px;
     margin: 0 auto;
+    margin-bottom: 8%;
 }
 
 .main-text .p1 {
@@ -109,6 +110,10 @@ h2 {
     text-align: center;
     margin-left: auto;
     margin-top: 10px;
+}
+
+.SNS {
+    margin-bottom: 8%;
 }
 
 .SNS .SNS_Logo {
